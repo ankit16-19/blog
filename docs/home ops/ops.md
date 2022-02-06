@@ -1,7 +1,6 @@
 ---
 share: True
 category: "home ops"
-name: "ops"
 ---
 Back [[Projects MOC]]
 
