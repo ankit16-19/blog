@@ -1,5 +1,4 @@
 ---
-title: None
 description: None
 share: True
 tag: None
