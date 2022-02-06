@@ -1,6 +1,6 @@
-site_name: Obsidian Mkdocs
+site_name: Ankit's Digital Garden
 site_description: A mkdocs wiki template for Obsidian
-site_url: https://ankit16-19.github.io/notes-test
+site_url: https://ankit16-19.github.io/blog
 
 theme:
     name: 'material'
