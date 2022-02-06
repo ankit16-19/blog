@@ -40,7 +40,7 @@ flux bootstrap github \
 ```
 
 
-#### Multicluster setup in one repo
+### Multicluster setup in one repo
 Deploying multiple cluster using single repositories, Use cases could be: Deployed on different env with different params, token, api keys, resources.
 
 #### Branching Strategy
