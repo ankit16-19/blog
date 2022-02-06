@@ -40,7 +40,8 @@ Token: [[Rancher#See k8s token]]
 Uninstall: [[Rancher#Uninstall]]
 
 
-### ISSUES
+## ISSUES
+
 #### K8s
 Stuck in Termination: [[k8s#Patch Finalizer]]
 
