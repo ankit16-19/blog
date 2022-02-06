@@ -1,8 +1,7 @@
 ---
-title: None
-description: None
 share: True
-category: None
+category: "home ops"
+name: "ops"
 ---
 Back [[Projects MOC]]
 
@@ -30,12 +29,6 @@ Define what Home OPS is.
 - Dev server: [[Flux#Dev Server Home OPS]]
 - Save age keys: [[SOPS#age-keys]]
 - Setup sops: [[SOPS#Installing keys in flux]]
-
-#### Github Token COPY
-```text
-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
-```
-
 
 #### Flux
 - Install: [[Flux#Installation]]
