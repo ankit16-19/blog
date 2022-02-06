@@ -18,7 +18,7 @@ pre-commit run --all-files
 ```
 
 
-#### pre-commit [[Home OPS]] config
+#### pre-commit [[Home ops]] config
 ```yaml
 ---
 fail_fast: false
