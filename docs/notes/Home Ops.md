@@ -2,15 +2,6 @@
 ---
 Back [[Projects MOC]]
 
----
-title: test
-share: true
-description: test
-category: test
-
----
-
-
 
 #### Context
 Define what Home OPS is.
