@@ -1,6 +1,6 @@
 ---
 share: True
-category: "home ops"
+category: "home-ops"
 ---
 Back [[Projects MOC]]
 
