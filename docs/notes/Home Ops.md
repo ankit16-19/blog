@@ -54,4 +54,4 @@ Stuck in Termination: [[k8s#Patch Finalizer]]
 #### Longhorn
 Volume Stuck: [[Longhorn#Multipath mount issue]]
 
-![[679661663.pdf]]
+![File:Test image.jpg - Wikipedia](https://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg)
