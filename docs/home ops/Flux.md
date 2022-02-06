@@ -1,6 +1,6 @@
 ---
 share: True
-category: "home ops"
+category: "HOME OPS"
 ---
 [Github](https://github.com/fluxcd/flux)
 #### Watch [[Kustomization]]
