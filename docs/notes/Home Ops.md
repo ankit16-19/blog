@@ -53,5 +53,3 @@ Stuck in Termination: [[k8s#Patch Finalizer]]
 
 #### Longhorn
 Volume Stuck: [[Longhorn#Multipath mount issue]]
-
-![[Touch Bar Shot 2021-06-18 at 1.02.01 PM.png]]
