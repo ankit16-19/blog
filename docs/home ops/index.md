@@ -6,15 +6,9 @@ Back [[Projects MOC]]
 
 
 #### Context
-Define what Home OPS is.
+WIP. Define what Home OPS is.
 
 #### TODO: [[Home Ops TODO]]
-
-#### Strategies
-##### Branching
-1. Make local **dev cluster** to deploy and map it to develop branch
-2. Write specs to test changes
-3. when all specs pass merge to master
 
 #### Dependencies
 - [[Rancher]] :  To create and mange k8s clusters
