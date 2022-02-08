@@ -52,5 +52,5 @@ PROJECT: [[Home OPS]]
 
 ## APPS
 #### Monitoring
-- [ ] Grafana
+- [x] Grafana
 - [x] Loki
