@@ -31,7 +31,7 @@ PROJECT: [[Home OPS]]
 - [ ] Sonarr
 	- [x] Apps
 	- [ ] Dashboard
-	- [ ] Logger
+	- [x] Logger
 - [ ] Radarr
 	- [x] Apps
 	- [ ] Dashboard
@@ -51,4 +51,6 @@ PROJECT: [[Home OPS]]
 	- [ ] Logger
 
 ## APPS
+#### Monitoring
 - [ ] Grafana
+- [x] Loki
