@@ -16,11 +16,18 @@ PROJECT: [[Home OPS]]
 - [x] Setup cert-manger to manage certificates
 - [x] Volumes and backups [[Longhorn]]
 - [ ] Solution for automatic restore on initial setup.
+- [x] Run both old and new Plex simultanously.
+- [ ] Force update KS if changes are detected in dependency files.
+- [x] Host Path for NFS mount.
+- [ ] Rclone
+	- [x] Dashboard
+	- [ ] Logs
 
 ## Ansible
 - [ ] Fix multipath [[Longhorn#Multipath mount issue]]
 - [ ] Setup Flux keys [[SOPS#age-keys]]
-- [ ] Setup Flux [[Flux]]
+- [ ] Setup  [[Flux]]
+- [ ] Setup [[NFS]]
 
 
 ## Teraform
@@ -28,10 +35,14 @@ PROJECT: [[Home OPS]]
 - [ ] Proxmox
 
 ## Media
-- [ ] Sonarr
+- [x] Sonarr
 	- [x] Apps
-	- [ ] Dashboard
+	- [x] Dashboard
 	- [x] Logger
+- [ ] Stash
+	- [ ] App
+	- [ ] Dashboard
+	- [ ] Logger
 - [ ] Radarr
 	- [x] Apps
 	- [ ] Dashboard
@@ -46,11 +57,13 @@ PROJECT: [[Home OPS]]
 - [ ] Bazzar
 	- [ ] App
 	- [ ] Logger
-- [ ] Ombi
+- [ ] Ombi/Overseer
 	- [ ] App
 	- [ ] Logger
 
 ## APPS
 #### Monitoring
 - [x] Grafana
+	- [ ] Persistent storage?
 - [x] Loki
+	- [ ] Persistent storage?

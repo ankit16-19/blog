@@ -64,4 +64,4 @@ These servers can keep [[Kustomization]] to include other source folder ie. apps
 
 
 ### Overriding expired Deploy token.
-adding  `--token-auth=[[Github#Github token]]` to bootstrap command will override the tokens.
+adding  `--token-auth=true` to bootstrap command will override the Deploy tokens.
